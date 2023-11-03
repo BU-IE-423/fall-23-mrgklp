@@ -6,6 +6,10 @@ Check [my repository](https://github.com/BU-IE-423/fall-23-mrgklp) to see the fo
 
 Please check the links by clicking on them. 
 
+## Project first part
+
+[Jupyter Notebook  HTML](IE_423_Project_Part_1_final.html)
+
 ### Correct linking of .html and .pdf files:
 
 
