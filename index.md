@@ -8,7 +8,8 @@ Please check the links by clicking on them.
 
 ## Project first part
 
-[Jupyter Notebook  HTML](IE_423_Project_Part_1_final.html)
+[Project Part 1](IE_423_Project_Part_1_final.html)
+[Project Part 2 - Task2 & Conclusion]()
 
 ### Correct linking of .html and .pdf files:
 
