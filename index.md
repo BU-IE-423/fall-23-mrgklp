@@ -9,7 +9,7 @@ Please check the links by clicking on them.
 ## Project first part
 
 * [Project Part 1](IE_423_Project_Part_1_final.html)
-* [Project Part 2 - Task2 & Conclusion](IE_423_Project_Part2_Task1.html)
+* [Project Part 2 - Task1](IE_423_Project_Part2_Task1.html)
 
 ### Correct linking of .html and .pdf files:
 
